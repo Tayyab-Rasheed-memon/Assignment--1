@@ -13,7 +13,7 @@ function Blog() {
         
     <div className='text-green-400 font-extrabold'>
 <Link href={"home"}>    
-     <h1>'H_ome'</h1>
+     <h1>Home</h1>
     </Link>
 </div>
 <p className='   text-violet-100 font-extrabold  text-center p-6 text-5xl'>Assalamu alaikum</p>

@@ -4,7 +4,7 @@ import React from 'react'
 
 function Contact() {
   return (
-    <div className='text-3xl font-serif p-2 text-blue-600'>' Contact ''
+    <div className='text-3xl font-serif p-2 text-blue-600'> Contact 
     
     <div className='text-amber-400 font-thin' >
     <Link href={"home"}>    

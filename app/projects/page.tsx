@@ -3,7 +3,7 @@ import React from 'react'
 
 function Projects() {
   return (
-    <div className='text-3xl font-serif p-2 text-rose-500'>' Projects '
+    <div className='text-3xl font-serif p-2 text-rose-500'> Projects 
     <div className='text-fuchsia-500 font-mono' >
     <Link href={"contact"}>    
      <h1>Contact</h1>
